@@ -1,3 +1,0 @@
- Admin-admin@chargeshare.demo Admin123!
-Host-host@chargeshare.demo Host123!
-EV user- user@chargeshare.demo User123!
